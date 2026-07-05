@@ -1,0 +1,9 @@
+# Core dependency
+numpy>=1.22
+
+# Development / testing
+# pytest>=7
+# pytest-cov
+
+# Required by examples only (not the package itself)
+# scipy>=1.9
